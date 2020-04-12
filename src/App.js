@@ -1,8 +1,19 @@
-import React from 'react';
-import SearchResultContainer from "./components/SearchResultContainer";
+import React, { Component } from "react";
+import Home from "./utils/Home";
+import Container from "./components/Container";
+import Header from "./components/Header";
 
 function App() {
-  return <SearchResultContainer />;
+
+    return (
+      <div>
+        <Header />
+        <Container>
+          <Home />
+        </Container>
+      </div>
+
+    );
 }
 
 export default App;
