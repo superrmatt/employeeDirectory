@@ -8,3 +8,4 @@ In the project directory, you can run:
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Alternatively, for a limited time, this react-app will be host on https://superrmatt.github.io.
